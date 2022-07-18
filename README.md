@@ -72,3 +72,5 @@ name | Para informar o **nome** do usuário
 size | Para definir o tamanho do campo
 background | Cor de fundo da área em _HEX_
 onPress | Função chamada quando clicar no botão
+
+[Voltar para o topo](#bem-vindo-ao-curso-git-e-github)
